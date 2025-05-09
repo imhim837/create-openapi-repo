@@ -1,4 +1,5 @@
-# create-openapi-repo
+docker build -t redocly/cli .
+docker run --rm -v $PWD:# create-openapi-repo
 
 A tool for generating multi-file OpenAPI definitions.
 
